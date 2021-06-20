@@ -1,0 +1,18 @@
+main: com.mineshop.Main
+name: MineSHOP
+version: 1.998
+author: Viiict0r
+description: MineSHOP Lite version.
+website: www.cmhosts.com.br
+commands:
+  pontos:
+    aliases: [points]
+    description: Comando para ver seu saldo
+  activate:
+    aliases: [ativar]
+    description: Comando para ativar um codigo de cash
+  shop:
+    description: Abrir o shop
+  mineshop:
+    aliases: [ms]
+    description: Mostrar comandos do plugin

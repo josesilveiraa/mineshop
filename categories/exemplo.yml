@@ -1,0 +1,21 @@
+name: '&cBlocos'
+icon-id: 1
+icon-data: 0
+ativate: true
+slot: 20
+lore:
+  - '&7Categoria de exemplo'
+Itens:
+  Exemplo:
+    name: '&cBloco'
+    id: 2
+    data: 0
+    slot: 0
+    give: true
+    amount: 1
+    price: 2
+    enchants: sharpness:1 # Enchant:Level,Enchant:Level ...
+    lore:
+    - '&bTeste'
+    commands:
+    - 'say %player%, este e um comando executado ao comprar o item no shop!'

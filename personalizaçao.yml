@@ -1,0 +1,15 @@
+Menu_Principal:
+  categoria-desativada:
+    id: 101
+    data: 0
+    nome: '&c-/-'
+  mostrar-pontos:
+    id: 371
+    data: 0
+    nome: '&6Voce possui: &f%points% pontos'
+  outros:
+    laterais:
+      id: 102
+      data: 0
+      nome: '&6MineSHOP'
+      

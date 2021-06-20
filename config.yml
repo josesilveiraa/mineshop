@@ -1,0 +1,9 @@
+# Coloque aqui a url de sua loja, sem 'https' e sem barras.
+Dominio: maniacraft.com.br
+gerar-logs: true
+mysql:
+  host: 'localhost'
+  porta: 3306
+  usuario: 'root'
+  senha: ''
+  database: 'mineshop'
